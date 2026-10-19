@@ -39,3 +39,25 @@ The setup installs these ten Flathub apps selected for craft project planning:
 10. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
 
 Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
+
+## Fifteen more purpose-specific preinstalled applications
+
+These applications add tools suited to this setup focus. They are installed from Flathub by the setup scripts.
+
+1. **Shotwell** (org.gnome.Shotwell) — import, sort, and make quick edits to photo libraries.
+2. **digiKam** (org.kde.digikam) — catalog, tag, and batch-process large photo collections.
+3. **RawTherapee** (com.rawtherapee.RawTherapee) — develop RAW photo files with tone and color controls.
+4. **GeoGebra Classic** (org.geogebra.GeoGebra) — explore geometry, algebra, graphing, and 3D math.
+5. **Stellarium** (org.stellarium.Stellarium) — explore a planetarium sky for astronomy learning.
+6. **Xournal++** (com.github.xournalpp.xournalpp) — annotate PDFs and take handwritten notes.
+7. **Thunderbird** (org.mozilla.Thunderbird) — manage email and communication accounts.
+8. **Evolution** (org.gnome.Evolution) — manage email, calendars, and contacts.
+9. **LibreCAD** (org.librecad.librecad) — draft precise 2D technical drawings.
+10. **QElectroTech** (org.qelectrotech.QElectroTech) — draw electrical schematics and wiring diagrams.
+11. **MuseScore Studio** (org.musescore.MuseScore) — write, play back, and print sheet music.
+12. **LMMS** (io.lmms.LMMS) — compose electronic music and loops.
+13. **GNOME Maps** (org.gnome.Maps) — look up places and plan routes.
+14. **GNOME Weather** (org.gnome.Weather) — check local weather conditions.
+15. **GNOME Calendar** (org.gnome.Calendar) — schedule sessions, deadlines, and events.
+
+Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
