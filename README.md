@@ -25,4 +25,4 @@ The `make-mend.svg` wallpaper is original. Make & Mend OS is an independent Ubun
 See [FEATURES.md](FEATURES.md) for three local tools included for craft project planning.
 
 
-The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
+Blender is included in every setup, alongside the purpose-specific apps listed in [FEATURES.md](FEATURES.md).
