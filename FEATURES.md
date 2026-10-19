@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for craft project planning:
 3. **Kdenlive** — org.kde.kdenlive
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for craft project planning:
+
+1. **Blender** — create 3D assets and animations (org.blender.Blender)
+2. **OBS Studio** — record or stream sessions (com.obsproject.Studio)
+3. **Audacity** — edit audio recordings (org.audacityteam.Audacity)
+4. **Ardour** — record and mix multitrack audio (org.ardour.Ardour)
+5. **darktable** — develop RAW photos (org.darktable.Darktable)
+6. **Scribus** — lay out print-ready publications (org.scribus.Scribus)
+7. **VLC** — review media files (org.videolan.VLC)
+8. **Mixxx** — prepare and mix DJ sets (org.mixxx.Mixxx)
+9. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+10. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
